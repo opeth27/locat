@@ -1,0 +1,2 @@
+# locat
+safelink
